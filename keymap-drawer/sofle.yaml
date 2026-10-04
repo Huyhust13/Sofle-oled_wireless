@@ -23,7 +23,7 @@ layers:
   - Sft+5
   - Sft+6
   - Sft+7
-  - Sft+F9
+  - Sft+9
   - '{'
   - '}'
   - F12
@@ -83,9 +83,9 @@ layers:
   - '&mkp RCLK'
   - {t: ▽, type: trans}
   - PG UP
-  - {t: ▽, type: trans}
+  - HOME
   - UP
-  - {t: ▽, type: trans}
+  - END
   - '0'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
