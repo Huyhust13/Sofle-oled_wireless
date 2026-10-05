@@ -86,8 +86,8 @@ layers:
   - HOME
   - UP
   - END
-  - '0'
-  - {t: ▽, type: trans}
+  - PRINTSCREEN
+  - DELETE
   - {t: ▽, type: trans}
   - '&msc SCRL_DOWN'
   - '&mmv MOVE_LEFT'
