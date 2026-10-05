@@ -19,6 +19,5 @@ include:
     cmake-args: -DCONFIG_ZMK_STUDIO=y
   - board: nice_nano_v2
     shield: sofle_right nice_oled
-    cmake-args: -DCONFIG_NICE_OLED_WIDGET_ANIMATION_PERIPHERAL=n -DCONFIG_NICE_OLED_WIDGET_STATIC_IMAGE_PERIPHERAL=y
   - board: nice_nano_v2
     shield: settings_reset
